@@ -1,2 +1,2 @@
 # cr7rep
-Cr7Rep - upd
+Cr7Rep - update
